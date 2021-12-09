@@ -1,0 +1,20 @@
+@import url(all.min.css);
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+
+h2{
+    font-family: "Raleway";
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+h5{
+    font-family: "Raleway";
+    font-size: 18px;
+    
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+}
